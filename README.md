@@ -2,11 +2,9 @@
 **I'm a french Robotics engineering student who loves to program and create new things :cloud:**
 ##
 
-<p align="center">
-
   ![](/static/Haku.gif)
+  
   *May all your compilation errors dissipate like petals in the wind*
-</p>
 
 
 <!--
