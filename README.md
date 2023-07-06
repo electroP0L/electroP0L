@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! I'm Paul :v:
+**I'm a french Robotics engineering student who loves to program and create new things :cloud:**
+##
+
+<p align="center">
+
+  ![](/static/Haku.gif)
+  *May all your compilation errors dissipate like petals in the wind*
+</p>
+
 
 <!--
 **electroP0L/electroP0L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
