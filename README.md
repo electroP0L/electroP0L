@@ -1,5 +1,5 @@
 ### Hi there! I'm Paul :v:
-**I'm a french Robotics engineering student who loves to program and create new things :cloud:**
+**I'm a french Robotics engineer who loves to program and create new things :cloud:**
 ##
 
   ![](/static/Haku.gif)
